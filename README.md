@@ -10,9 +10,9 @@
 Референсы, которые мне пригодятся
 >NASA Global Climate Change: информация о глобальном потеплении и данные о климате.
 >NOAA Climate Data Online: доступ к климатическим данным и статистике.
->Гайды-статьи, где есть полезная для меня информация
->Статья о том, как использовать FastAPI для создания API: FastAPI Documentation.
->Гид по визуализации данных с помощью Plotly: Plotly Python Graphing Library.
+Гайды-статьи, где есть полезная для меня информация
+Статья о том, как использовать FastAPI для создания API: FastAPI Documentation.
+Гид по визуализации данных с помощью Plotly: Plotly Python Graphing Library.
 Обзор работы с Pandas для анализа данных: Pandas Documentation.
 
 Шаблон сайта: https://html5up.net/solid-state
